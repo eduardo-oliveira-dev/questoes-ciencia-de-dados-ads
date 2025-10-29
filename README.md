@@ -160,16 +160,12 @@ pillow
 
 ```bash
 # Clone o repositório
-git clone [url-do-repositorio]
-cd projeto-integrador-unifacisa
+git clone https://github.com/eduardo-oliveira-dev/questoes-ciencia-de-dados-ads.git
+cd questoes-ciencia-de-dados-ads
 
 # Crie um ambiente virtual (recomendado)
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
-
-# Instale as dependências
-pip install -r requirements.txt
-```
 
 ### Instalação Manual das Bibliotecas
 
