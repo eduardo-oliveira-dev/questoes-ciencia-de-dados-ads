@@ -69,7 +69,7 @@ Este repositório contém as soluções completas para o Desafio Projeto Integra
 ### **🚀 Parte 3 - Modelos Avançados** (Questões 5-10)
 
 #### **Questão 5 (Intermediário) - Diagnóstico de Doenças Cardíacas**
-- **Dataset:** Heart Disease UCI (Kaggle)
+- **Dataset:** Heart Failure Prediction Dataset (Kaggle)
 - **Objetivo:** Prever presença de doença cardíaca
 - **Features:** Idade, pressão arterial, colesterol, frequência cardíaca
 - **Modelos:** Random Forest e SVM (comparação)
@@ -265,7 +265,7 @@ Os notebooks também podem ser executados no Google Colab. Basta fazer o upload 
 | 2 | Credit Card Fraud | Classificação | Kaggle |
 | 3 | E-commerce Customers | Clusterização | Kaggle/Gerado |
 | 4 | Patient Health Data | Clusterização | Kaggle/Gerado |
-| 5 | Heart Disease UCI | Classificação | Kaggle |
+| 5 | Heart Failure Prediction Dataset | Classificação | Kaggle |
 | 6 | King County House Data | Regressão | Scikit-Learn |
 | 7 | Market Basket | Associação | Kaggle/Gerado |
 | 8 | MovieLens | Recomendação | GroupLens |
