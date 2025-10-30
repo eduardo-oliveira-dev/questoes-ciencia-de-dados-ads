@@ -12,7 +12,7 @@
 ## 👥 Equipe
 
 - **Eduardo Nascimento de Oliveira**
-- **Pedro Henrique Araújo**
+- **Pedro Henrique de Araújo**
 - **Isaque Brito Araújo**
 
 ---
@@ -266,18 +266,11 @@ Os notebooks também podem ser executados no Google Colab. Basta fazer o upload 
 | 3 | E-commerce Customers | Clusterização | Kaggle/Gerado |
 | 4 | Patient Health Data | Clusterização | Kaggle/Gerado |
 | 5 | Heart Disease UCI | Classificação | Kaggle |
-| 6 | California Housing | Regressão | Scikit-Learn |
+| 6 | King County House Data | Regressão | Scikit-Learn |
 | 7 | Market Basket | Associação | Kaggle/Gerado |
 | 8 | MovieLens | Recomendação | GroupLens |
 | 9 | Chest X-ray Images | Classificação | Kaggle |
 | 10 | Rossmann Store Sales | Regressão | Kaggle |
-
----
-
-**Equipe:**
-- Eduardo Oliveira
-- Pedro Henrique
-- Isaque Brito
 
 ---
 
